@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wusel451
-- 👀 I’m interested in Raspery and Microcontroler (Ardruino, ESP32) projekts
+- 👀 I’m interested in Rasperry and Microcontroler (Ardruino, ESP32) projekts
 - 🌱 I’m currently learning Arduino, HTML
 
 
